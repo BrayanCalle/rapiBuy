@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rapiBuy",
+    "slug": "rapiBuy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rapiBuy"
+}
